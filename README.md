@@ -20,8 +20,8 @@
 <!-- ![image](image/simulation/부모_회원가입.gif) -->
 <!-- ![image](image/simulation/자녀_회원가입.gif) -->
 
-<img src = "image/simulation/부모_회원가입.gif" width=" 200px">
-<img src = "image/simulation/자녀_회원가입.gif" width=" 200px">
+<p><img src = "image/simulation/부모_회원가입.gif" width=" 200px"></p>
+<p><img src = "image/simulation/자녀_회원가입.gif" width=" 200px"></p>
 
 ### Login
 
