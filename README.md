@@ -13,7 +13,7 @@
 
 ![image](image/simulation/랜딩페이지.gif)
 
-<!-- <img src = "image/simulation/랜딩페이지.gif" width=" 200px"> -->
+<img src = "image/simulation/랜딩페이지.gif" width=" 300px">
 
 ### Sign In
 
