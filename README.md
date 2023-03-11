@@ -20,72 +20,72 @@
 <!-- ![image](image/simulation/부모_회원가입.gif) -->
 <!-- ![image](image/simulation/자녀_회원가입.gif) -->
 
-<img src = "image/simulation/부모_회원가입.gif" width=" 300px">
-<img src = "image/simulation/자녀_회원가입.gif" width=" 300px">
+<img src = "image/simulation/부모_회원가입.gif" width=" 200px">
+<img src = "image/simulation/자녀_회원가입.gif" width=" 200px">
 
 ### Login
 
-![image](image/simulation/부모_로그인.gif)
-![image](image/simulation/자녀_로그인.gif)
+<!-- ![image](image/simulation/부모_로그인.gif) -->
+<!-- ![image](image/simulation/자녀_로그인.gif) -->
 
-<!-- <img src = "image/simulation/부모_로그인.gif" width=" 300px"> -->
-<!-- <img src = "image/simulation/자녀_로그인.gif" width=" 300px"> -->
+<img src = "image/simulation/부모_로그인.gif" width=" 200px">
+<img src = "image/simulation/자녀_로그인.gif" width=" 200px">
 
 ### 부모 튜토리얼
 
-![image](image/simulation/부모_튜토리얼_1.gif)
-![image](image/simulation/부모_튜토리얼_2.gif)
-![image](image/simulation/부모_튜토리얼_3.gif)
-![image](image/simulation/부모_튜토리얼_4.gif)
+<!-- ![image](image/simulation/부모_튜토리얼_1.gif) -->
+<!-- ![image](image/simulation/부모_튜토리얼_2.gif) -->
+<!-- ![image](image/simulation/부모_튜토리얼_3.gif) -->
+<!-- ![image](image/simulation/부모_튜토리얼_4.gif) -->
 
-<!-- <img src = "image/simulation/부모_튜토리얼_1.gif" width=" 300px"> -->
-<!-- <img src = "image/simulation/부모_튜토리얼_2.gif" width="300px"> -->
-<!-- <img src = "image/simulation/부모_튜토리얼_3.gif" width="300px"> -->
-<!-- <img src = "image/simulation/부모_튜토리얼_4.gif" width="300px"> -->
+<img src = "image/simulation/부모_튜토리얼_1.gif" width=" 200px">
+<img src = "image/simulation/부모_튜토리얼_2.gif" width="200px">
+<img src = "image/simulation/부모_튜토리얼_3.gif" width="200px">
+<img src = "image/simulation/부모_튜토리얼_4.gif" width="200px">
 
 ### 입금
 
-![image](image/simulation/부모_입금.gif)
-![image](image/simulation/자녀_입금.gif)
+<!-- ![image](image/simulation/부모_입금.gif) -->
+<!-- ![image](image/simulation/자녀_입금.gif) -->
 
-<!-- <img src = "image/simulation/부모_입금.gif" width=" 300px"> -->
-<!-- <img src = "image/simulation/자녀_입금.gif" width=" 300px"> -->
+<img src = "image/simulation/부모_입금.gif" width=" 200px">
+<img src = "image/simulation/자녀_입금.gif" width=" 200px">
 
 ### 투자
 
-![image](image/simulation/부모_투자.gif)
-![image](image/simulation/자녀_투자.gif)
+<!-- ![image](image/simulation/부모_투자.gif) -->
+<!-- ![image](image/simulation/자녀_투자.gif) -->
 
-<!-- <img src = "image/simulation/부모_투자.gif" width=" 300px"> -->
-<!-- <img src = "image/simulation/자녀_투자.gif" width=" 300px"> -->
+<img src = "image/simulation/부모_투자.gif" width=" 200px">
+<img src = "image/simulation/자녀_투자.gif" width=" 200px">
 
 ### 적금
 
-![image](image/simulation/자녀_적금.gif)
+<!-- ![image](image/simulation/자녀_적금.gif) -->
 
-<!-- <img src = "image/simulation/자녀_적금.gif" width=" 300px"> -->
+<img src = "image/simulation/자녀_적금.gif" width=" 200px">
 
 ### 환전
 
-![image](image/simulation/부모_환전.gif)
-![image](image/simulation/자녀_환전.gif)
+<!-- ![image](image/simulation/부모_환전.gif) -->
+<!-- ![image](image/simulation/자녀_환전.gif) -->
 
-<!-- <img src = "image/simulation/부모_환전.gif" width="300px"> -->
-<!-- <img src = "image/simulation/자녀_환전.gif" width="300px"> -->
+<img src = "image/simulation/부모_환전.gif" width="200px">
+<img src = "image/simulation/자녀_환전.gif" width="200px">
 
 ### 할 일
 
-![image](image/simulation/부모_할일.gif)
-![image](image/simulation/자녀_할일.gif)
+<!-- ![image](image/simulation/부모_할일.gif) -->
+<!-- ![image](image/simulation/자녀_할일.gif) -->
 
-<!-- <img src = "image/simulation/부모_할일.gif" width=" 300px"> -->
-<!-- <img src = "image/simulation/자녀_할일.gif" width=" 300px"> -->
+<img src = "image/simulation/부모_할일.gif" width=" 200px">
+<img src = "image/simulation/자녀_할일.gif" width=" 200px">
 
 ### 경제공부방
 
-![image](image/simulation/자녀_경제공부방.gif)
+<!-- ![image](image/simulation/자녀_경제공부방.gif) -->
 
-<!-- <img src = "image/simulation/자녀_경제공부방.gif" width=" 300px"> -->
+<img src = "image/simulation/자녀_경제공부방.gif" width=" 200px">
 
 <br>
 
