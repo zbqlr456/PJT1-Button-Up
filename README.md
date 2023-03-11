@@ -29,8 +29,10 @@
 <!-- ![image](image/simulation/부모_로그인.gif) -->
 <!-- ![image](image/simulation/자녀_로그인.gif) -->
 
-<img src = "image/simulation/부모_로그인.gif" width=" 200px">
-<img src = "image/simulation/자녀_로그인.gif" width=" 200px">
+<div class = "login">
+    <img src = "image/simulation/부모_로그인.gif" width=" 200px">
+    <img src = "image/simulation/자녀_로그인.gif" width=" 200px">
+</div>
 
 ### 부모 튜토리얼
 
@@ -39,26 +41,32 @@
 <!-- ![image](image/simulation/부모_튜토리얼_3.gif) -->
 <!-- ![image](image/simulation/부모_튜토리얼_4.gif) -->
 
-<img src = "image/simulation/부모_튜토리얼_1.gif" width=" 200px">
-<img src = "image/simulation/부모_튜토리얼_2.gif" width="200px">
-<img src = "image/simulation/부모_튜토리얼_3.gif" width="200px">
-<img src = "image/simulation/부모_튜토리얼_4.gif" width="200px">
+<div class = "p-t"
+    <img src = "image/simulation/부모_튜토리얼_1.gif" width=" 200px">
+    <img src = "image/simulation/부모_튜토리얼_2.gif" width="200px">
+    <img src = "image/simulation/부모_튜토리얼_3.gif" width="200px">
+    <img src = "image/simulation/부모_튜토리얼_4.gif" width="200px">
+</div>
 
 ### 입금
 
 <!-- ![image](image/simulation/부모_입금.gif) -->
 <!-- ![image](image/simulation/자녀_입금.gif) -->
 
-<img src = "image/simulation/부모_입금.gif" width=" 200px">
-<img src = "image/simulation/자녀_입금.gif" width=" 200px">
+<div class = "deposit">
+    <img src = "image/simulation/부모_입금.gif" width=" 200px">
+    <img src = "image/simulation/자녀_입금.gif" width=" 200px">
+</div>
 
 ### 투자
 
 <!-- ![image](image/simulation/부모_투자.gif) -->
 <!-- ![image](image/simulation/자녀_투자.gif) -->
 
-<img src = "image/simulation/부모_투자.gif" width=" 200px">
-<img src = "image/simulation/자녀_투자.gif" width=" 200px">
+<div class = "stock">
+    <img src = "image/simulation/부모_투자.gif" width=" 200px">
+    <img src = "image/simulation/자녀_투자.gif" width=" 200px">
+</div>
 
 ### 적금
 
@@ -71,16 +79,20 @@
 <!-- ![image](image/simulation/부모_환전.gif) -->
 <!-- ![image](image/simulation/자녀_환전.gif) -->
 
-<img src = "image/simulation/부모_환전.gif" width="200px">
-<img src = "image/simulation/자녀_환전.gif" width="200px">
+<div class = "change">
+    <img src = "image/simulation/부모_환전.gif" width="200px">
+    <img src = "image/simulation/자녀_환전.gif" width="200px">
+</div>
 
 ### 할 일
 
 <!-- ![image](image/simulation/부모_할일.gif) -->
 <!-- ![image](image/simulation/자녀_할일.gif) -->
 
-<img src = "image/simulation/부모_할일.gif" width=" 200px">
-<img src = "image/simulation/자녀_할일.gif" width=" 200px">
+<div class = "todo"
+    <img src = "image/simulation/부모_할일.gif" width=" 200px">
+    <img src = "image/simulation/자녀_할일.gif" width=" 200px">
+</div>
 
 ### 경제공부방
 
