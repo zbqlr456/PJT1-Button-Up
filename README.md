@@ -11,17 +11,17 @@
 
 ### Landing
 
-![image](image/simulation/랜딩페이지.gif)
+<!-- ![image](image/simulation/랜딩페이지.gif) -->
 
-<img src = "image/simulation/랜딩페이지.gif" width=" 300px">
+<img src = "image/simulation/랜딩페이지.gif" width=" 200px">
 
 ### Sign In
 
-![image](image/simulation/부모_회원가입.gif)
-![image](image/simulation/자녀_회원가입.gif)
+<!-- ![image](image/simulation/부모_회원가입.gif) -->
+<!-- ![image](image/simulation/자녀_회원가입.gif) -->
 
-<!-- <img src = "image/simulation/부모_회원가입.gif" width=" 300px"> -->
-<!-- <img src = "image/simulation/자녀_회원가입.gif" width=" 300px"> -->
+<img src = "image/simulation/부모_회원가입.gif" width=" 300px">
+<img src = "image/simulation/자녀_회원가입.gif" width=" 300px">
 
 ### Login
 
