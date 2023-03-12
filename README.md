@@ -1,4 +1,4 @@
-# 첫단추
+# 💰첫단추
 
 <img src = "image/logo.gif" width=" 400px">
 
@@ -7,7 +7,7 @@
 
 <br>
 
-## 시뮬레이션
+## 🎥시뮬레이션
 
 ### Landing
 
@@ -74,7 +74,7 @@
 
 <br>
 
-## 주요 기능
+## 🔍주요 기능
 
 - **공통**
     - **회원 가입**
@@ -126,19 +126,19 @@
 
 <br>
 
-## 시스템 아키텍처
+## 💽시스템 아키텍처
 
 ![시스템 아키텍처](image/specifications/system_structure.png)
 
 <br>
 
-## [ERD](https://www.erdcloud.com/d/fEbqnr9diEWmQQvGZ)
+## 🔑[ERD](https://www.erdcloud.com/d/fEbqnr9diEWmQQvGZ)
 
 ![ERD](image/specifications/erd.png)
 
 <br>
 
-## 나의 역할
+## 👨‍💻나의 역할
 
 ### 팀원 공통
 - 2주간의 서비스 기획을 통한 **회의록, 주제 선정, 세부 기능명세서, API 명세서, 와이어프레임**을 작성하였습니다.
