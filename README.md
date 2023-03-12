@@ -76,7 +76,7 @@
     <img src = "image/simulation/자녀_입금.gif" width=" 200px">
 </div>
 
-### 투자
+### 모의 주식 투자
 
 <!-- ![image](image/simulation/부모_투자.gif) -->
 <!-- ![image](image/simulation/자녀_투자.gif) -->
