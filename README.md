@@ -25,7 +25,7 @@
 
 <br>
 
-## Simulation
+## 시뮬레이션
 
 ### Landing
 
@@ -68,18 +68,12 @@
 
 ### 입금
 
-<!-- ![image](image/simulation/부모_입금.gif) -->
-<!-- ![image](image/simulation/자녀_입금.gif) -->
-
 <div class = "deposit">
     <img src = "image/simulation/부모_입금.gif" width=" 200px">
     <img src = "image/simulation/자녀_입금.gif" width=" 200px">
 </div>
 
 ### 모의 주식 투자
-
-<!-- ![image](image/simulation/부모_투자.gif) -->
-<!-- ![image](image/simulation/자녀_투자.gif) -->
 
 <div class = "stock">
     <img src = "image/simulation/부모_투자.gif" width=" 200px">
