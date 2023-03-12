@@ -1,6 +1,6 @@
 # 첫단추
 
-![logo](image/logo.gif)
+<img src = "image/logo.gif" width=" 200px">
 
 > 우리 아이의 경제 교육 **첫 단추**를 꿰어줍니다.  
 > 가정에서의 경제 조기 교육을 통해 성인이 되어서 경험할 경제 활동을 이론이 아닌 실제 활동으로 쉽고 재밌게 체험해 볼 수 있습니다.
@@ -11,14 +11,10 @@
 
 ### Landing
 
-<!-- ![image](image/simulation/랜딩페이지.gif) -->
-
 <img src = "image/simulation/랜딩페이지.gif" width=" 200px">
 
 ### Sign In
 
-<!-- ![image](image/simulation/부모_회원가입.gif) -->
-<!-- ![image](image/simulation/자녀_회원가입.gif) -->
 <div class = "sing-in">
     <img src = "image/simulation/부모_회원가입.gif" width=" 200px">
     <img src = "image/simulation/자녀_회원가입.gif" width=" 200px">
@@ -26,20 +22,12 @@
 
 ### Login
 
-<!-- ![image](image/simulation/부모_로그인.gif) -->
-<!-- ![image](image/simulation/자녀_로그인.gif) -->
-
 <div class = "login">
     <img src = "image/simulation/부모_로그인.gif" width=" 200px">
     <img src = "image/simulation/자녀_로그인.gif" width=" 200px">
 </div>
 
 ### 부모 튜토리얼
-
-<!-- ![image](image/simulation/부모_튜토리얼_1.gif) -->
-<!-- ![image](image/simulation/부모_튜토리얼_2.gif) -->
-<!-- ![image](image/simulation/부모_튜토리얼_3.gif) -->
-<!-- ![image](image/simulation/부모_튜토리얼_4.gif) -->
 
 <div class = "p-t"
     <img src = "image/simulation/부모_튜토리얼_1.gif" width=" 200px">
@@ -64,14 +52,9 @@
 
 ### 적금
 
-<!-- ![image](image/simulation/자녀_적금.gif) -->
-
 <img src = "image/simulation/자녀_적금.gif" width=" 200px">
 
 ### 환전
-
-<!-- ![image](image/simulation/부모_환전.gif) -->
-<!-- ![image](image/simulation/자녀_환전.gif) -->
 
 <div class = "change">
     <img src = "image/simulation/부모_환전.gif" width="200px">
@@ -80,17 +63,12 @@
 
 ### 할 일
 
-<!-- ![image](image/simulation/부모_할일.gif) -->
-<!-- ![image](image/simulation/자녀_할일.gif) -->
-
 <div class = "todo"
     <img src = "image/simulation/부모_할일.gif" width=" 200px">
     <img src = "image/simulation/자녀_할일.gif" width=" 200px">
 </div>
 
 ### 경제공부방
-
-<!-- ![image](image/simulation/자녀_경제공부방.gif) -->
 
 <img src = "image/simulation/자녀_경제공부방.gif" width=" 200px">
 
